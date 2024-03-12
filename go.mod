@@ -1,4 +1,5 @@
 module github.com/grafana/grafana-api-golang-client
+replace github.com/authorA/mygolibrary/v3 => /home/udtrmac/src/mygolibrary
 
 go 1.21
 
